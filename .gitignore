@@ -1,8 +1,6 @@
 air_temperature.nc
-/air_temperature.nc
+air_temperature.nc
 sea_surface_temperature.nc
 sst.nc
 output_raster.tif
-.\\output_folder\\*.*
-./output_folder/*.*
-/output_folder/*.*
+output_folder/*.*
