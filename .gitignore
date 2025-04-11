@@ -5,3 +5,4 @@ sst.nc
 output_raster.tif
 output_folder/*.*
 data/*.*
+*-checkpoint.ipynb
