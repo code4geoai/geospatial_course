@@ -6,3 +6,6 @@ output_raster.tif
 output_folder/*.*
 data/*.*
 *-checkpoint.ipynb
+*.tif
+maplibre_comp.ipynb
+
