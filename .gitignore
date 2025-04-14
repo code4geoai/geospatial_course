@@ -8,4 +8,4 @@ data/*.*
 *-checkpoint.ipynb
 *.tif
 maplibre_comp.ipynb
-
+school-list.geojson
